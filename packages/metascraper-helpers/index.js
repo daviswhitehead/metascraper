@@ -71,7 +71,7 @@ const REGEX_LOCATION = /^[A-Z\s]+\s+[-—–]\s+/
 
 const REGEX_TITLE_SEPARATOR = /^[^|\-/•—]+/
 
-const TRUNCATE_MAX_LENGTH = 300
+const TRUNCATE_MAX_LENGTH = 5000
 
 const AUTHOR_MAX_LENGTH = 128
 
